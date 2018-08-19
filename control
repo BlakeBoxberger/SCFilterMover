@@ -1,0 +1,9 @@
+Package: com.neinzedd9.scfiltermover
+Name: SCFilterMover
+Depends: mobilesubstrate
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: Move and resize Snapchat geofilters like an emoji!
+Maintainer: NeinZedd9
+Author: NeinZedd9
+Section: Tweaks
